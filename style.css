@@ -1041,11 +1041,11 @@ font-size: 90px;
     background-position:center;
     background-attachment: fixed;
     height: 80%;
-    margin-top: 40px;
+    margin-top: 120px;
 }
 .ban-text{
     position: absolute;
-    top:510%;
+    top:530%;
     left: 50%;
     transform: translate(-50%,-50%);
     z-index: 5;
