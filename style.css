@@ -1045,7 +1045,7 @@ font-size: 90px;
 }
 .ban-text{
     position: absolute;
-    top:530%;
+    top:540%;
     left: 50%;
     transform: translate(-50%,-50%);
     z-index: 5;
